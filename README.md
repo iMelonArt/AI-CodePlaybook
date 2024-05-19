@@ -1,12 +1,12 @@
 <h1 align="center">AI CodePlaybook</h1>
-<p align="center"><i>A collection of AI codeplay book by cloudmelon</i></p>
+<p align="center"><i>A collection of AI codeplay book by cloudmelon from iMelonArt</i></p>
 <div align="center">
-  <a href="https://github.com/cloudmelon/AI-CodePlaybook/stargazers"><img src="https://img.shields.io/github/stars/cloudmelon/AI-CodePlaybook" alt="Stars Badge"/></a>
-<a href="https://github.com/cloudmelon/AI-CodePlaybook/network/members"><img src="https://img.shields.io/github/forks/cloudmelon/AI-CodePlaybook" alt="Forks Badge"/></a>
-<a href="https://github.com/cloudmelon/AI-CodePlaybook/pulls"><img src="https://img.shields.io/github/issues-pr/cloudmelon/AI-CodePlaybook" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/cloudmelon/AI-CodePlaybook/issues"><img src="https://img.shields.io/github/issues/cloudmelon/AI-CodePlaybook" alt="Issues Badge"/></a>
-<a href="https://github.com/cloudmelon/AI-CodePlaybook/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/cloudmelon/AI-CodePlaybook?color=2b9348"></a>
-<a href="https://github.com/cloudmelon/AI-CodePlaybook/blob/master/LICENSE"><img src="https://img.shields.io/github/license/cloudmelon/AI-CodePlaybook?color=2b9348" alt="License Badge"/></a>
+  <a href="https://github.com/iMelonArt/AI-CodePlaybook/stargazers"><img src="https://img.shields.io/github/stars/iMelonArt/AI-CodePlaybook" alt="Stars Badge"/></a>
+<a href="https://github.com/iMelonArt/AI-CodePlaybook/network/members"><img src="https://img.shields.io/github/forks/iMelonArt/AI-CodePlaybook" alt="Forks Badge"/></a>
+<a href="https://github.com/iMelonArt/AI-CodePlaybook/pulls"><img src="https://img.shields.io/github/issues-pr/iMelonArt/AI-CodePlaybook" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/iMelonArt/AI-CodePlaybook/issues"><img src="https://img.shields.io/github/issues/iMelonArt/AI-CodePlaybook" alt="Issues Badge"/></a>
+<a href="https://github.com/iMelonArt/AI-CodePlaybook/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/iMelonArt/AI-CodePlaybook?color=2b9348"></a>
+<a href="https://github.com/iMelonArt/AI-CodePlaybook/blob/main/LICENSE"><img src="https://img.shields.io/github/license/iMelonArt/AI-CodePlaybook?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
 <p align="center"><i>Loved the project? Please visit CloudMelon's <a href="https://github.com/cloudmelon">Github profile</a></i></p>
@@ -24,7 +24,7 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 
 | Projects | Description |
 | --- | --- |
-| [MelonRagGPT - local AI](ttps://github.com/iMelonArt/AI-Playbook/melonRagGPT) | An local AI chatbot in Docker containers and it can be deployed in Containers and Kubernetes for entreprise-grade scale. End-to-end implementation blog post is [here]() |
+| [MelonRagGPT - local AI](ttps://github.com/iMelonArt/AI-Playbook/melonRagGPT) | An local AI chatbot in Docker containers and it can be deployed in Containers and Kubernetes for entreprise-grade scale. End-to-end implementation blog post is [here]() and video is [here]() on [CloudMelon Vis]() channel on Youtube|
 | [MelonRagGPT - Azure OpenAI]() | Upcoming |
  
 
@@ -38,7 +38,7 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 
 # Further details on my blog : 
 
-Please go to my blog [CloudMelon Vis](https://cloudmelonvision.com) to get more details about my work
+Please go to my blog [CloudMelon Vis](https://cloudmelonvision.com) to get more details about my work and visit my <a href="https://github.com/cloudmelon">Github profile</a></i></p>
 
 Feel free to reach out to my twitter [**@MelonyQ**](https://twitter.com/MelonyQ) in case you have any questions. 
 
