@@ -70,6 +70,14 @@ The supported extensions are:
 - `.ppt` : PowerPoint Document,
 - `.txt`: Text file (UTF-8),
 
+# Authors
+
+Contributors names and contacts
+
+- Github profile [here](https://github.com/cloudmelon)
+- Twitter [@MelonyQ](https://twitter.com/melonyq)
+- Blog [CloudMelon Vis](https://cloudmelonvision.com)
+- Youtube[ CloudMelon Vis](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
 
 # Contribute
 

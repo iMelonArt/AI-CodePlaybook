@@ -33,6 +33,7 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 # Related projects in the `Playbook by cloudmelon ` 
 
 - [AI Playbook by cloudmelon ](https://github.com/iMelonArt/AI-Playbook)includes all the AI/ML research paper as well as free education resources
+- [AI CodePlaybook by cloudmelon ](https://github.com/iMelonArt/AI-Playbook)includes all the AI POVs(Proof of concepts) for iMelonArt AI products and hands-on instructions.
 - [Cloud Native Playbook by cloudmelon ](https://github.com/cloudmelon/Cloud-Native-Playbook) includes learning resources and demos in Kubernetes and other cloud-native technologies.
 - [Cloud Native Serverless Playbook by cloudmelon](https://github.com/cloudmelon/Cloud-Native-Serverless-Playbook) includes learning resources and demos in Virtual Kubelet, Serverless and other cloud-native technologies.
 
@@ -53,3 +54,4 @@ This project is licensed under [MIT](https://opensource.org/licenses/MIT) licens
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
