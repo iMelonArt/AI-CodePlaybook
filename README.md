@@ -43,6 +43,15 @@ Please go to my blog [CloudMelon Vis](https://cloudmelonvision.com) to get more 
 
 Feel free to reach out to my twitter [**@MelonyQ**](https://twitter.com/MelonyQ) in case you have any questions. 
 
+# Authors
+
+Contributors names and contacts
+
+- Github profile [here](https://github.com/cloudmelon)
+- Twitter [@MelonyQ](https://twitter.com/melonyq)
+- Blog [CloudMelon Vis](https://cloudmelonvision.com)
+- Youtube[ CloudMelon Vis](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
+
 # Contribute
 
 Contributions are always welcome! Please create a PR to add Github Profile.
