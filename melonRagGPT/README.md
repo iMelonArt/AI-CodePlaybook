@@ -49,7 +49,9 @@ Find detailed instructions in this blog post :
 
 ## Supported document formats
 
-Put any and all your files into the `source_documents` directory
+Put any and all your files into the `source_documents` directory. The sample documents are : 
+1. NVIDIA'S cloud-native and AI strategy - video source : https://youtu.be/KrmqURibQB8
+2. Will AI Robots take over our jobs in 5 years ? - video source : https://youtu.be/ag-Vgwg1m8I
 
 The supported extensions are:
 
