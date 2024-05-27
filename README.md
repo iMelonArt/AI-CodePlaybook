@@ -58,7 +58,7 @@ Contributions are always welcome! Please create a PR to add Github Profile.
 
 ## License
 
-This project is licensed under [MIT](https://opensource.org/licenses/MIT) license.
+This project is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license.
 
 ## Show your support
 
