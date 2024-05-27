@@ -58,9 +58,13 @@ Contributions are always welcome! Please create a PR to add Github Profile.
 
 ## License
 
-This project is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license.
+This project is licensed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) license.
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=iMelonArt/AI-CodePlaybook&type=Date)](https://star-history.com/#iMelonArt/AI-CodePlaybook&Date)
 
