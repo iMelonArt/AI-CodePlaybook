@@ -21,13 +21,16 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 
 
 # Project details 
+How to set up local AI environement in CPU and GPU, check out this blog post [How I built an LLM-based local AI for FREE in containers](https://cloudmelonvision.com/how-i-built-an-llm-based-local-ai-for-free-in-docker-containers/)
 
 | Projects | Description |
 | --- | --- |
-| [MelonRagGPT - local AI](ttps://github.com/iMelonArt/AI-Playbook/melonRagGPT) | An local AI chatbot in Docker containers and it can be deployed in Containers and Kubernetes for entreprise-grade scale. End-to-end implementation blog post is [here]() and video is [here]() on [CloudMelon Vis]() channel on Youtube|
-| [MelonRagGPT - Azure OpenAI]() | Upcoming |
+| [MelonRagGPT - local AI](https://github.com/iMelonArt/AI-Playbook/melonRagGPT) | An local AI chatbot - bpowered by an LLM called Llama 3 7B in Docker containers and it can be deployed in Containers and Kubernetes for entreprise-grade scale. End-to-end implementation blog post is [here]() and video is [here]() on [CloudMelon Vis]() channel on Youtube|
+| [MelonRagGPTLite - local AI](https://github.com/iMelonArt/AI-Playbook/melonRagGPTLite) | An local AI chatbot - powered by an LLM called Mistral in Docker containers and it can be deployed in Containers and Kubernetes for entreprise-grade scale. |
+| [MelonRagGPT - Azure OpenAI](https://github.com/iMelonArt/AI-Playbook/melonOpenAIRagGPT) | A cloud-based AI chatbot - powered by a multimodal AI GPT4 from OpenAI called Mistral in Docker containers and it can be deployed in Containers and Kubernetes for entreprise-grade scale. |
  
-
+# Project References
+To learn more about AI, check out this free crash course in 12 mins here [What You REALLY Need To Know About AI ](https://youtu.be/aW3GmbCnWW4) blog post [Artificial Intelligence (AI) made easy for beginners](https://cloudmelonvision.com/artificial-intelligence-ai-made-easy-for-beginners/)
 
 
 # Related projects in the `Playbook by cloudmelon ` 

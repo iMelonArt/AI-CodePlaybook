@@ -1,0 +1,5 @@
+# Byte-compiled / optimized / DLL files
+/melonRagGPTLite/__pycache__/
+/melonRagGPTLite/db/
+.DS_Store
+melonRagGPT/.DS_Store
