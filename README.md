@@ -21,7 +21,7 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 
 
 # Project details 
-How to set up local AI environement in CPU and GPU, check out this blog post [How I built an LLM-based local AI for FREE in containers](https://cloudmelonvision.com/how-i-built-an-llm-based-local-ai-for-free-in-docker-containers/)
+How to set up local AI environement in CPU and GPU, check out this blog post [How I built an LLM-based local AI for FREE in containers](https://cvisiona.com/how-i-built-an-llm-based-local-ai-for-free-in-docker-containers/)
 
 | Projects | Description |
 | --- | --- |
@@ -42,7 +42,7 @@ To learn more about AI, check out this free crash course in 12 mins here [What Y
 
 # Further details on my blog : 
 
-Please go to my blog [CloudMelon Vis](https://cloudmelonvision.com) to get more details about my work and visit my <a href="https://github.com/cloudmelon">Github profile</a></i></p>
+Please go to my blog [CloudMelon Vis](https://cvisiona.com) to get more details about my work and visit my <a href="https://github.com/cloudmelon">Github profile</a></i></p>
 
 Feel free to reach out to my twitter [**@MelonyQ**](https://twitter.com/MelonyQ) in case you have any questions. 
 
@@ -52,12 +52,12 @@ Contributors names and contacts
 
 - Github profile [here](https://github.com/cloudmelon)
 - Twitter [@MelonyQ](https://twitter.com/melonyq)
-- Blog [CloudMelon Vis](https://cloudmelonvision.com)
+- Blog [CloudMelon Vis](https://cvisiona.com)
 - Youtube[ CloudMelon Vis](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
 
 # Contribute
 
-Contributions are always welcome! Please create a PR to add Github Profile.
+Contributions are always welcome! Please create a PR to add a GitHub profile.
 
 ## License
 
